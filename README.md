@@ -1,4 +1,4 @@
-# psparallel
+# PSParallel
 This is a package for the psana framework used to analyze LCLS data. 
 Documentation about data analysis at LCLS  starts here: 
 
